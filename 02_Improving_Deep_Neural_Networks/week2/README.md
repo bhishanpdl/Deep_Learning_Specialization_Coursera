@@ -56,7 +56,7 @@ Mini-batch gradient descent seeks to find a balance between the robustness of st
 - Error information must be accumulated across mini-batches of training examples like batch gradient descent.
 
 # Gradient Descent Images
-![](images/grad_desc.png)
+![](images/grad_desc.jpg)
 ![](images/mini_batch_gradient_descent.png)
 ![](images/exponentially_weighted_averages.png)
 ![](images/implement_exponetially_weighted_averages.png)
