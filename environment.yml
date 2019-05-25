@@ -25,4 +25,5 @@ dependencies:
   - jupyter_client 
   - ipykernel
   - pip:
-    - version-information 
+    - version-information
+    - pillow
