@@ -1,3 +1,10 @@
+Table of Contents
+=================
+   * [scipy.ndimage.imread](#scipyndimageimread)
+   * [plt.scatter keyword c needs flattened array](#pltscatter-keyword-c-needs-flattened-array)
+   * [Tensorflow](#tensorflow)
+
+!!=========================================================================================
 # scipy.ndimage.imread
 File: DeepLearning1/week4/Deep_Neural_Network_Application_Image_Classification/Deep_Neural_Network_Application_v8.ipynb
 Part: Part7 Test with your own image
@@ -50,7 +57,7 @@ print ("y = " + str(np.squeeze(my_predicted_image))
 ```
 
 
-
+!!=========================================================================================
 # plt.scatter keyword c needs flattened array
 File: DeepLearning2/week1/Initialization/init_utils.py
 File: DeepLearning2/week2/Optimization/opt_utils.py
@@ -66,4 +73,13 @@ ValueError: 'c' argument has 1 elements, which is not acceptable for use with 'x
 From: plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral) 
 
 To: plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
+```
+
+!!=========================================================================================
+# Tensorflow
+File: DeepLearning2/week3/Tensorflow/Tensorflow+Tutorial.ipynb
+
+**Error**
+```python
+WARNING:tensorflow:From <ipython-input-37-4283e06da5d5>:20: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
 ```
