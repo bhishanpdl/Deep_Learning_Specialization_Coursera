@@ -83,3 +83,9 @@ File: DeepLearning2/week3/Tensorflow/Tensorflow+Tutorial.ipynb
 ```python
 WARNING:tensorflow:From <ipython-input-37-4283e06da5d5>:20: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
 ```
+
+**Fix**
+```python
+From: softmax_cross_entropy_with_logits
+To:   softmax_cross_entropy_with_logits_v2
+```
