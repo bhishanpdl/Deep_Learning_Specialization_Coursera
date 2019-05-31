@@ -1,6 +1,7 @@
 # Course 1: week4 Deep_Neural_Network_Application_Image_Classification Deep_Neural_Network_Application
 **Code**
 ```
+NOTE: This code works for scipy 1.1 but does not work for scipy 1.3.
 ## START CODE HERE ##
 my_image = "my_image.jpg" # change this to the name of your image file 
 my_label_y = [1] # the true class of your image (1 -> cat, 0 -> non-cat)
@@ -15,19 +16,33 @@ my_predicted_image = predict(my_image, my_label_y, parameters)
 plt.imshow(image)
 ```
 
-**Error**
+**Error for scipy >=1.3**
 ```
 AttributeError: module 'scipy.ndimage' has no attribute 'imread'
 ```
 
 **Fix**
 ```
-pip install pillow # using pip
-conda install -n myenv conda-forge pillow # for conda environment called myenv
+from matplotlib.pyplot import imread
+from skimage.transform import resize
 
-# Then,
-from scipy.misc import imread
-image = imread(fname, flatten=False)
+## START CODE HERE ##
+my_image = "my_image.jpg" # change this to the name of your image file 
+my_label_y = [1] # the true class of your image (1 -> cat, 0 -> non-cat)
+## END CODE HERE ##
+
+fname = "images/" + my_image
+image = imread(fname)
+num_px = 64
+my_image = resize(image, (num_px,num_px), order=1, preserve_range=True).reshape((num_px*num_px*3,1))
+my_image = my_image/255.
+my_predicted_image = predict(my_image, my_label_y, parameters)
+
+plt.imshow(image)
+print ("y = " + str(np.squeeze(my_predicted_image)) 
+       + ", your L-layer model predicts a \""
+       + classes[int(np.squeeze(my_predicted_image)),]
+       .decode("utf-8") +  "\" picture.")
 ```
 
 
