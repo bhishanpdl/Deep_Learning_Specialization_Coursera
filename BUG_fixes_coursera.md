@@ -1,4 +1,8 @@
-# Course 1: week4 Deep_Neural_Network_Application_Image_Classification Deep_Neural_Network_Application
+# scipy.ndimage.imread
+File: DeepLearning1/week4/Deep_Neural_Network_Application_Image_Classification/Deep_Neural_Network_Application_v8.ipynb
+Part: Part7 Test with your own image
+Problem: scipy1.3 does not have function scipy.ndimage.imread
+
 **Code**
 ```
 NOTE: This code works for scipy 1.1 but does not work for scipy 1.3.
@@ -47,11 +51,19 @@ print ("y = " + str(np.squeeze(my_predicted_image))
 
 
 
-# Course 2: week 1  init_utils.py
-There is bug in function `plot_decision_boundary(model,X,y)`. It gives `TypeError: unhashable type: 'numpy.ndarray'`.
-To fix this:
-```python
-plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral) # gives error
+# plt.scatter keyword c needs flattened array
+File: DeepLearning2/week1/Initialization/init_utils.py
+File: DeepLearning2/week2/Optimization/opt_utils.py
+Function: plot_decision_boundary
 
-plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral) # fixes the bug
+**Error**:  
+```python
+ValueError: 'c' argument has 1 elements, which is not acceptable for use with 'x' with size 300, 'y' with size 300.
+```
+
+**Fix**:  
+```python
+From: plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral) 
+
+To: plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
 ```
