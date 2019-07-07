@@ -72,8 +72,7 @@ To find output number in n_H[l], it depends on four things:
 - current filter size f[l]
 - current striding  s[l]
 ```
-
-        - 16x16x32
+	- 16x16x32
 
 	- 29x29x16
 
