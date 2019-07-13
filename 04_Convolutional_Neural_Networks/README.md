@@ -41,5 +41,6 @@ There is a website [Netscope](https://cwlacewe.github.io/netscope/quickstart.htm
 - Interactive CNN architectures by [Netscope](https://dgschwend.github.io/netscope/quickstart.html)
 - GoogleNet: https://ethereon.github.io/netscope/#/preset/googlenet 
 - ResNet-50 : http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006
-In the figure below gives the architecture for [ResNet-34](https://cwlacewe.github.io/netscope/#/gist/db34c4e100415c7f2861eeda3f4495e9).
+
+- In the figure below we can see the architecture for [ResNet-34](https://cwlacewe.github.io/netscope/#/gist/db34c4e100415c7f2861eeda3f4495e9).  
 ![](images/ResNet.png)
