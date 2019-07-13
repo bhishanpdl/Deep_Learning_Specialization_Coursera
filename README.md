@@ -1,10 +1,34 @@
+Table of Contents
+=================
+   * [<a href="https://www.coursera.org/specializations/deep-learning" rel="nofollow">Deep Learning Specialization on Coursera</a>](#deep-learning-specialization-on-coursera)
+   * [BUG Fix](#bug-fix)
+   * [Tips](#tips)
+   * [Download data from coursera](#download-data-from-coursera)
+         * [<a href="https://www.coursera.org/specializations/deep-learning" rel="nofollow">Syllabus</a>](#syllabus)
+      * [Course 1. <a href="https://www.coursera.org/learn/neural-networks-deep-learning" rel="nofollow">Neural Networks and Deep Learning</a>](#course-1-neural-networks-and-deep-learning)
+      * [Course 2. <a href="https://www.coursera.org/learn/deep-neural-network" rel="nofollow">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a>](#course-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
+      * [Course 3. <a href="https://www.coursera.org/learn/machine-learning-projects" rel="nofollow">Structuring Machine Learning Projects</a>](#course-3-structuring-machine-learning-projects)
+      * [Course 4. <a href="https://www.coursera.org/learn/convolutional-neural-networks" rel="nofollow">Convolutional Neural Networks</a>](#course-4-convolutional-neural-networks)
+      * [Course 5. <a href="https://www.coursera.org/learn/nlp-sequence-models" rel="nofollow">Sequential Models</a>](#course-5-sequential-models)
+
+
 # [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
-
-![](images/deeplearning-ai.png)
-
-[![Build Status](https://travis-ci.org/bhishanpdl/Deep_Learning_Specialization_Coursera.svg?branch=master)](https://travis-ci.org/bhishanpdl/Deep_Learning_Specialization_Coursera)
-
 Instructor: [Andrew Ng](http://www.andrewng.org/)
+
+# BUG Fix
+- In course 2, week1, init_utils.py, the function plot_decision_bounday has a bug.
+```python
+From: plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral)
+To  : plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
+```
+
+# Tips
+- In some markdown cells of Coursera notebook, HTML is used to render image instead of plain markdown.
+  While jupyter-notebook displayed in gihtub supports HTML but Google Colaboratory does not support it.
+  So, its best to resort to simple markdown format rather than using direct HTML syntax to render images.
+
+# Download data from coursera
+- Click on File icon on top left corner. Click Open. Then download required data.
 
 ### [Syllabus](https://www.coursera.org/specializations/deep-learning)
 
