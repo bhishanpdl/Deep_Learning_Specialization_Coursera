@@ -21,6 +21,7 @@ Table of Contents
 - Explanations: https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/
 - Different CNN architectures://www.jeremyjordan.me/convnet-architectures/
 
+There is a website [Netscope](https://cwlacewe.github.io/netscope/quickstart.html) which helps visualizing CNN architectures using Caffe's prototxt format. Some of the architectures are shown below:
 
 - Classic network architectures
   + [LeNet-5](https://ethereon.github.io/netscope/#/gist/5166ee1d07cd3521cdfbe8aa8ffc5693)
@@ -38,6 +39,7 @@ Table of Contents
 
 # Week2: Residual Networks (ResNets)
 - Interactive CNN architectures by [Netscope](https://dgschwend.github.io/netscope/quickstart.html)
-- ResNet : http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006
 - GoogleNet: https://ethereon.github.io/netscope/#/preset/googlenet 
+- ResNet-50 : http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006
+In the figure below gives the architecture for [ResNet-34](https://cwlacewe.github.io/netscope/#/gist/db34c4e100415c7f2861eeda3f4495e9).
 ![](images/ResNet.png)
