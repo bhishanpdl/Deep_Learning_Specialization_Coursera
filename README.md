@@ -13,6 +13,6 @@ From: plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral)
 to: plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
 ```
 
-2. Rendering HTML in markdown  
-In Jupyter-notebook (e.g. in Google Colaboratory), HTML rendering is not supported as like Github Markdown,
-so use markdown tables instead of HTML tables to show the summary results.
+2. Using HTML in markdown cells
+In Github markdown cell supports HTML rendering, but Google Colaboraroty does not support it. So use markdown
+syntax instead of html syntax to create tables and other markdown codes.
