@@ -34,5 +34,7 @@ Modern network architectures
 - DenseNet
 
 # Week2: Residual Networks (ResNets)
-- Interactive ResNet AlexNet etc link: https://ethereon.github.io/netscope/quickstart.html
+- Interactive CNN architectures by [Netscope](https://ethereon.github.io/netscope/quickstart.html)
+- ResNet : http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006
+- GoogleNet: https://ethereon.github.io/netscope/#/preset/googlenet 
 ![](images/ResNet.png)
