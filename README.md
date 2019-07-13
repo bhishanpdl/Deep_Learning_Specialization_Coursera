@@ -4,16 +4,15 @@ Table of Contents
    * [BUG Fix](#bug-fix)
    * [Tips](#tips)
    * [Download data from coursera](#download-data-from-coursera)
-         * [<a href="https://www.coursera.org/specializations/deep-learning" rel="nofollow">Syllabus</a>](#syllabus)
-      * [Course 1. <a href="https://www.coursera.org/learn/neural-networks-deep-learning" rel="nofollow">Neural Networks and Deep Learning</a>](#course-1-neural-networks-and-deep-learning)
-      * [Course 2. <a href="https://www.coursera.org/learn/deep-neural-network" rel="nofollow">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a>](#course-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
-      * [Course 3. <a href="https://www.coursera.org/learn/machine-learning-projects" rel="nofollow">Structuring Machine Learning Projects</a>](#course-3-structuring-machine-learning-projects)
-      * [Course 4. <a href="https://www.coursera.org/learn/convolutional-neural-networks" rel="nofollow">Convolutional Neural Networks</a>](#course-4-convolutional-neural-networks)
-      * [Course 5. <a href="https://www.coursera.org/learn/nlp-sequence-models" rel="nofollow">Sequential Models</a>](#course-5-sequential-models)
-
+   * [Course 1. <a href="https://www.coursera.org/learn/neural-networks-deep-learning" rel="nofollow">Neural Networks and Deep Learning</a>](#course-1-neural-networks-and-deep-learning)
+   * [Course 2. <a href="https://www.coursera.org/learn/deep-neural-network" rel="nofollow">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a>](#course-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
+   * [Course 3. <a href="https://www.coursera.org/learn/machine-learning-projects" rel="nofollow">Structuring Machine Learning Projects</a>](#course-3-structuring-machine-learning-projects)
+   * [Course 4. <a href="https://www.coursera.org/learn/convolutional-neural-networks" rel="nofollow">Convolutional Neural Networks</a>](#course-4-convolutional-neural-networks)
+   * [Course 5. <a href="https://www.coursera.org/learn/nlp-sequence-models" rel="nofollow">Sequential Models</a>](#course-5-sequential-models)
 
 # [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 Instructor: [Andrew Ng](http://www.andrewng.org/)
+Syllabus: [Syllabus](https://www.coursera.org/specializations/deep-learning)
 
 # BUG Fix
 - In course 2, week1, init_utils.py, the function plot_decision_bounday has a bug.
@@ -30,9 +29,9 @@ To  : plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
 # Download data from coursera
 - Click on File icon on top left corner. Click Open. Then download required data.
 
-### [Syllabus](https://www.coursera.org/specializations/deep-learning)
 
-## Course 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) 
+
+# Course 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) 
 https://www.coursera.org/learn/neural-networks-deep-learning/home/info
 
 
@@ -43,7 +42,7 @@ Foundations of Deep Learning:
 * Understand the key parameters in a neural network's architecture 
 
   
-## Course 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) 
+# Course 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) 
 https://www.coursera.org/learn/deep-neural-network/home/info
 
 * Understand industry best-practices for building deep learning applications. 
@@ -52,7 +51,7 @@ https://www.coursera.org/learn/deep-neural-network/home/info
 * Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
 * Be able to implement a neural network in TensorFlow. 
 
-## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) 
+# Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) 
 https://www.coursera.org/learn/machine-learning-projects/home/info  
 
 - Understand how to diagnose errors in a machine learning system, and 
@@ -60,7 +59,7 @@ https://www.coursera.org/learn/machine-learning-projects/home/info
 - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 - Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
-## Course 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) 
+# Course 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) 
 https://www.coursera.org/learn/convolutional-neural-networks/home/info 
 
 * Understand how to build a convolutional neural network, including recent variations such as residual networks.
@@ -68,7 +67,7 @@ https://www.coursera.org/learn/convolutional-neural-networks/home/info
 * Know to use neural style transfer to generate art.
 * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
-## Course 5. [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models) 
+# Course 5. [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models) 
 https://www.coursera.org/learn/nlp-sequence-models/home/info
 
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs. 
