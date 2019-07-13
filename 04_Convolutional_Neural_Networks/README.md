@@ -38,6 +38,8 @@ There is a website [Netscope](https://cwlacewe.github.io/netscope/quickstart.htm
 
 
 # Week2: Residual Networks (ResNets)
+ResNet is the Convolutinal Neural Netwrks og Microsoft team that won ILSRVC 2015 competetiona and surpass the human performance on ImageNet dataset. REsNet 50 is one of the version provided in experiments.
+
 - Interactive CNN architectures by [Netscope](https://dgschwend.github.io/netscope/quickstart.html)
 - GoogleNet: https://ethereon.github.io/netscope/#/preset/googlenet 
 - ResNet-50 : http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006
