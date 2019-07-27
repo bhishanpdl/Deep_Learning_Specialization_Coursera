@@ -1,16 +1,14 @@
-Table of Contents
-=================
-      * [Foundations of CNNs](#foundations-of-cnns)
-         * [Computer vision](#computer-vision)
-         * [Edge detection example](#edge-detection-example)
-         * [Padding](#padding)
-         * [Strided convolution](#strided-convolution)
-         * [Convolutions over volumes](#convolutions-over-volumes)
-         * [One Layer of a Convolutional Network](#one-layer-of-a-convolutional-network)
-         * [A simple convolution network example](#a-simple-convolution-network-example)
-         * [Pooling layers](#pooling-layers)
-         * [Convolutional neural network example](#convolutional-neural-network-example)
-         * [Why convolutions?](#why-convolutions)
+- [Foundations of CNNs](#foundations-of-cnns)
+  * [Computer vision](#computer-vision)
+  * [Edge detection example](#edge-detection-example)
+  * [Padding](#padding)
+  * [Strided convolution](#strided-convolution)
+  * [Convolutions over volumes](#convolutions-over-volumes)
+  * [One Layer of a Convolutional Network](#one-layer-of-a-convolutional-network)
+  * [A simple convolution network example](#a-simple-convolution-network-example)
+  * [Pooling layers](#pooling-layers)
+  * [Convolutional neural network example](#convolutional-neural-network-example)
+  * [Why convolutions?](#why-convolutions-)
 
 ## Foundations of CNNs
 
