@@ -25,6 +25,8 @@ To  : plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
 - In some markdown cells of Coursera notebook, HTML is used to render image instead of plain markdown.
   While jupyter-notebook displayed in gihtub supports HTML but Google Colaboratory does not support it.
   So, its best to resort to simple markdown format rather than using direct HTML syntax to render images.
+- We do not need to run the whole notebook which may take hours to train the model to submit the assignment,
+  we can just finish the assignments and then submit the result.
 
 # Download data from coursera
 - Click on File icon on top left corner. Click Open. Then download required data.
