@@ -2,6 +2,18 @@
 
 This is the first course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
+# Quiz
+- [week1 quiz](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week1/week1_quiz1.pdf)
+- [week2 quiz](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week2/week2_quiz1.pdf)
+- [week3 quiz](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week3/week3_quiz1.pdf)
+- [week4 quiz](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week4/week4_quiz1.pdf)
+
+# Notebooks
+- [week2 Logistic Regression](https://nbviewer.jupyter.org/github/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week2/Logistic_Regression_with_a_Neural_Network_mindset_v6/Logistic_Regression_with_a_Neural_Network_mindset_v6.ipynb)
+- [week3 Planar Data Classification With One Hidden Layer](https://nbviewer.jupyter.org/github/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week3/Planar_data_classification_with_one_hidden_layer_v2/Planar_data_classification_with_one_hidden_layer_v5.ipynb)
+- [week4 Building Deep Neural Network](https://nbviewer.jupyter.org/github/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week4/Building_your_Deep_Neural_Network-Step_by_Step/Building_your_Deep_Neural_Network_-_Step_by_Step_v8.ipynb)
+- [week4 Deep Neural Network Application](https://nbviewer.jupyter.org/github/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/01_Neural_Networks_and_Deep_Learning/week4/Deep_Neural_Network_Application_Image_Classification/Deep_Neural_Network_Application_v8.ipynb)
+
 ## Table of contents
 
 * [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
