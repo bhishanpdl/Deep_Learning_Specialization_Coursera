@@ -11,7 +11,7 @@ This is the second course of the deep learning specialization at [Coursera](http
 - [week1: Initialization](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week1/Initialization/Initialization.ipynb)
 - [week1: Gradient Checking](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week1/GradientChecking/Gradient%2BChecking%2Bv1.ipynb)
 - [week1: Regularization](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week1/Regularization/Regularization%2B-%2Bv2.ipynb)
--[week2: Optimization ](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week2/Optimization/Optimization_methods.ipynb)
+- [week2: Optimization ](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week2/Optimization/Optimization_methods.ipynb)
 - [week3: Tensorflow Tutorial](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week3/Tensorflow/Tensorflow%2BTutorial.ipynb)
 
 
