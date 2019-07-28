@@ -9,6 +9,7 @@ Table of Contents
    * [Course 3. <a href="https://www.coursera.org/learn/machine-learning-projects" rel="nofollow">Structuring Machine Learning Projects</a>](#course-3-structuring-machine-learning-projects)
    * [Course 4. <a href="https://www.coursera.org/learn/convolutional-neural-networks" rel="nofollow">Convolutional Neural Networks</a>](#course-4-convolutional-neural-networks)
    * [Course 5. <a href="https://www.coursera.org/learn/nlp-sequence-models" rel="nofollow">Sequential Models</a>](#course-5-sequential-models)
+   * [Disclaimer](#disclaimer)
 
 # [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 Instructor: [Andrew Ng](http://www.andrewng.org/)
@@ -75,3 +76,13 @@ https://www.coursera.org/learn/nlp-sequence-models/home/info
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs. 
 * Be able to apply sequence models to natural language problems, including text synthesis. 
 * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+# Disclaimer
+- All the notebooks are downloaded from Coursera and solved by me. I do not own any ownership or anything on them
+  only the exercises in the notebooks are solved my me. All the copyrights are reserved to Coursera or therein 
+  mentioned parties.
+- These materials involves quizzes and notebooks solutions. These are for my own backups and for future readings.
+  No any other readers are encourased to copy from them and dishonor the Coursera Honor Codes. The solutions are
+  purely my opinions and may not be true and may fail in future versions of test and future versions of python libraries.
+- All the readme files for these deep learning coursera are taken from [Mahmoud Badry et. al.](https://github.com/mbadry1/DeepLearning.ai-Summary)
+- 
