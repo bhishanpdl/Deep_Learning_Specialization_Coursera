@@ -2,6 +2,22 @@
 
 This is the fourth course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
+# Quizzes
+- [week1 quiz: Basics of ConvNets](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week1/week1_quiz/README.md)
+- [week2 quiz: Deep Convolutional Models](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week2/week2_quiz/README.md)
+- [week3 quiz: Detection Algorithms](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week3/week3_quiz/README.md)
+- [week4 quiz: Face Recognition and Neural Style Transfer](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week4/week4_quiz/README.md)
+
+# Notebooks
+- [week1: Convolutional Model Application](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+- [week1: Convolutional MOdel Step By Step](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+- [week2: Keras Tutorial Happy House](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week2/Keras_Tutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+- [week2: ResNet Residual Networks](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week2/ResNet/Residual%2BNetworks%2B-%2Bv2.ipynb)
+- [week3: Autonomous Car Detection](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week3/Autonomous_driving_Car_detection/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+- [week4: Face Recognition Happy House](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week4/Face_Recognition/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+- [week4: Neural Style Transfer](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/04_Convolutional_Neural_Networks/week4/Neural_Style_Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+
+
 ## Table of contents
 
 * [Convolutional Neural Networks](#convolutional-neural-networks)
