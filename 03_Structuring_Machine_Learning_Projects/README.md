@@ -2,6 +2,14 @@
 
 This is the third course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
+# Quizzes
+- [week1 quiz: Bird Recognition in the City of Peacetopia](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/03_Structuring_Machine_Learning_Projects/week1/week1_quiz1.pdf)
+- [week2 quiz: Autonomous Driving ](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/03_Structuring_Machine_Learning_Projects/week2/week2.pdf)
+
+# Notebooks
+- No notebooks
+
+
 ## Table of contents
 
 * [Structuring Machine Learning Projects](#structuring-machine-learning-projects)
