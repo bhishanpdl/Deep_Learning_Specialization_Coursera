@@ -2,7 +2,7 @@
 
 This is the second course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
-# Quiz
+# Quizzes
 - [week1 quiz: Practical aspects of Deep Learning](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week1/wk1_quiz1.pdf)
 - [week2 quiz: Optimization algorithms](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week2/wk2_quiz.pdf)
 - [week3 quiz: Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera/blob/master/02_Improving_Deep_Neural_Networks/week3/week3_quiz.pdf)
