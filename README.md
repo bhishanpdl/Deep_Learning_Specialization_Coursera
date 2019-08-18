@@ -29,9 +29,9 @@ To  : plt.scatter(X[0, :], X[1, :], c=y[0,:], cmap=plt.cm.Spectral)
 - We do not need to run the whole notebook which may take hours to train the model to submit the assignment,
   we can just finish the assignments and then submit the result.
 
-# Download data from coursera
+# Download materials from coursera and setup coursera environment
 - Click on File icon on top left corner. Click Open. Then download required data.
-
+- To set up jupyter notebook environment [follow this link](https://www.coursera.org/learn/neural-networks-deep-learning/discussions/forums/a-1G6KlmEeeYBA47k-OCuA/threads/LTMmAazcEemTxQ73F53h-A)
 
 
 # Course 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) 
